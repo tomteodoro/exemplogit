@@ -1,5 +1,1 @@
 Aqui é onde será desenvolvida a nova funcionalidade
-.
-.
-.
-.
