@@ -1,1 +1,1 @@
-Aqui é onde desenvolvida a nova funcionalidade
+Aqui é onde será desenvolvida a nova funcionalidade
